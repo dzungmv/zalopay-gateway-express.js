@@ -1,0 +1,62 @@
+[
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693752131/xuzgxzakurvy2ufnk9ue.mp3",
+        "artist": "Ins",
+        "name": "Fish in the pool",
+        "types": ["instumental", "chill", "dream", "evening", "tiktok"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693752270/zj6tpy9f6mxowzdsxd78.jpg",
+        "rate": 90,
+        "price": 500000,
+        "id": 1
+    },
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693560987/xm0la5hk2apxehytlav9.mp3",
+        "artist": "Trần Gia Kiệt",
+        "name": "Giao Giới",
+        "types": ["emotional", "instumental", "tiktok", "kdrama"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693561326/ifz4wxenuczy24xpzgid.jpg",
+        "rate": 89,
+        "price": 100000,
+        "id": 2
+    },
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693561902/rdtwbipgbrn6a3sdhbbk.mp3",
+        "artist": "Ins",
+        "name": "Pluto projector",
+        "types": ["emotional", "instumental", "tiktok"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693562028/ztusp5kpyf80awvuigmm.jpg",
+        "rate": 90,
+        "price": 200000,
+        "id": 3
+    },
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693563291/oiha2p4g5dvgo9oxl31z.mp3",
+        "artist": "Ins",
+        "name": "Moonlight romantic",
+        "types": ["emotional", "instumental", "tiktok"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693563454/em1be8krzepvpoa6sz2f.jpg",
+        "rate": 85,
+        "price": 550000,
+        "id": 4
+    },
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693563741/zzrirxqvyfhciext6vp7.mp3",
+        "artist": "Ins",
+        "name": "Point the start",
+        "types": ["chill", "instumental", "tiktok", "lofi"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693563689/gu9rijtdhmevra7x7rko.jpg",
+        "rate": 85,
+        "price": 300000,
+        "id": 5
+    },
+    {
+        "url": "https://res.cloudinary.com/dhbekdyl4/video/upload/v1693641476/jptwe0rug3dxjbmtbye8.mp3",
+        "artist": "Kassy",
+        "name": "Good morning",
+        "types": ["chill", "instumental", "morning", "kdrama"],
+        "thumnail": "https://res.cloudinary.com/drpksxymr/image/upload/v1693641791/hedxzble6thi0bqpn0fq.jpg",
+        "rate": 87,
+        "price": 900000,
+        "id": 6
+    }
+]

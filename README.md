@@ -13,4 +13,4 @@ Step:
 - yarn install (or pnpm install)
 - yarn dev 
 
-You must be install Zalopay app develop to test payment, link: https://docs.zalopay.vn/v2/start/ (pass for linking bank whole 1)
+You must be install Zalopay app develop to test payment, link: https://docs.zalopay.vn/v2/start/ (password for linking bank is 1 (whole))
